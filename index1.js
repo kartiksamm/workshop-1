@@ -1,5 +1,5 @@
 console.log("kartik ");
-console.log("2+3");
+console.log("5+2");
 function numcal(a, b) {
   console.log(a + b);
 }
